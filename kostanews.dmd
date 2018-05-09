@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="kostanews" id="C0D20E1D-265E-6746-19F6-93401E620457" version="3.5">
+<createdBy>kosta</createdBy>
+<createdTime>2018-03-15 01:50:48 UTC</createdTime>
+<ownerDesignName>kostanews</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C0D20E1D-265E-6746-19F6-93401E620457</designId>
+</OSDM_Design>

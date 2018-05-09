@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="00682901-3C8E-1520-E16D-E642347685D3" mainViewID="B55A03FF-E98E-0045-0FD8-1BF366086146">
+<createdBy>kosta</createdBy>
+<createdTime>2018-03-15 01:50:48 UTC</createdTime>
+<ownerDesignName>kostanews</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
